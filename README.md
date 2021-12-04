@@ -1,3 +1,3 @@
-# Primeiro re´positório.
+# Primeiro repositório.
 
-Primeiro repositório versionado, editado por VSC
+Primeiro repositório versionado, editado por VSC.
