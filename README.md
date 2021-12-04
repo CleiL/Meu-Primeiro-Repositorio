@@ -1,2 +1,3 @@
-# Meu-Primeiro-Repositorio
-Primeiro repositório versionado
+# Primeiro re´positório.
+
+Primeiro repositório versionado, editado por VSC
